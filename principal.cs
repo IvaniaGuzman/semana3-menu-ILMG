@@ -42,8 +42,9 @@ namespace semana3_menu_ILMG
             string opcion;
             int opcionint;
 
-            System.Console.WriteLine("Menu Principal");
-            System.Console.WriteLine("1. Ejemplo If");
+            System.Console.WriteLine("********** Menu Principal **********");
+            System.Console.WriteLine("");
+            System.Console.WriteLine("1. Ejemplo If ");
             System.Console.WriteLine("2. Ejemplo Switch");
             System.Console.WriteLine("3. Ejemplo For");
             System.Console.WriteLine("4. Ejemplo Wor");
