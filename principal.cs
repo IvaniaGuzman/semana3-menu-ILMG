@@ -10,7 +10,7 @@ namespace semana3_menu_ILMG
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Yellow;
 
 
