@@ -11,7 +11,7 @@ namespace semana3_menu_ILMG
         static void Main(string[] args)
         {
             Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Red;
 
 
             System.Console.WriteLine("********** Proyecto de Menu **********");
