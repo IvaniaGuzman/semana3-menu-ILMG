@@ -10,6 +10,9 @@ namespace semana3_menu_ILMG
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+
 
             System.Console.WriteLine("Proyecto de Menu");
             System.Console.WriteLine("Primer Programa Usando Estructuras");
