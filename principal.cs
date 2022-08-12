@@ -14,8 +14,8 @@ namespace semana3_menu_ILMG
             Console.ForegroundColor = ConsoleColor.Yellow;
 
 
-            System.Console.WriteLine("Proyecto de Menu");
-            System.Console.WriteLine("Primer Programa Usando Estructuras");
+            System.Console.WriteLine("********** Proyecto de Menu **********");
+            System.Console.WriteLine("** Primer Programa Usando Estructuras **");
 
             System.Console.ReadKey();
 
@@ -28,7 +28,7 @@ namespace semana3_menu_ILMG
                 menu_interno();
 
                 System.Console.WriteLine("Ingrese 1 para repetir menú");
-                System.Console.WriteLine("Ingrese 2 para salir");
+                System.Console.WriteLine("Ingrese 2 para salir del programa");
                 repetir = Int32.Parse(Console.ReadLine());
 
             } while (repetir == 1);
